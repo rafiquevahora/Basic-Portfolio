@@ -162,3 +162,22 @@ p {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+
+.input {
+	width:100%;
+	color: #777;
+	line-height: 2;
+}
+
+.button {
+	color: #ffffff;
+	background: #4aaaa5;
+	padding: 10px 30px;
+	font-size: 16px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	box-sizing: none;
+	border-width: none;
+	border-style: none;
+	border-color: none;
+	border-image: none;
+}
